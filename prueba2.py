@@ -1,2 +1,2 @@
-print("hola que tal");
-print("hola que tal");
+nombre = input("Dime tu nombre");
+print("Tu nombre es: ", nombre);
